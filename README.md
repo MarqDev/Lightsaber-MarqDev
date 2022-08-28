@@ -10,7 +10,7 @@ Lightsaber MarqDev é um projeto para fins de estudo de animação utilizando ap
 A aplicação consiste na revelação animada de um texto através de um Sabre de Luz (Ref. Star Wars), com deslocamento lateral da esquerda para direita. 
 
 ## Layout web
-![Web 1](https://github.com/MarqDev/Assets/blob/main/Lightsaber%20800px.jpg)
+![Web 1](https://github.com/MarqDev/Assets/blob/main/Lightsaber%20800px.jpg)    
 
 # Tecnologias utilizadas
 ## Front End
